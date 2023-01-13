@@ -1,0 +1,39 @@
+body{	
+	background-image:  url(../img/BG.jpg);
+	background-repeat:no-repeat;
+	background-size: 1920px 7000px;
+	opacity: 0.8; 
+	font-family: 'Rubik Dirt';
+	color: white;
+
+
+}
+
+.rty{
+	font-family: 'Solway', serif;
+	margin-right: 100px;
+	margin-left: 100px;
+	font-size:20pt;
+}
+
+@font-face{
+	src: url('img/Chernobyl.otf');
+}
+
+.nav-wrapper{
+	background-image: url(../img/Frame.jpg);
+	background-repeat:no-repeat;
+	opacity: 1;
+}
+
+.page-footer{
+    background-image: url(../img/Frame.jpg);
+    background-repeat:no-repeat;
+    background-size: 1920px 255px;
+	opacity: 1;
+
+}
+.page-footer,.nav-wrapper,{
+
+}
+
